@@ -1,5 +1,4 @@
 var myApp=new Framework7();
-var mainView=myApp.addView('.view-main',{dynamicNavbar:false});
 
 var count = 0;
 function increment(){
